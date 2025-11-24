@@ -1,0 +1,8 @@
+syntax: glob
+
+*~
+pkg/
+src/
+*.zst
+*.zst.sig
+*.tar.gz
